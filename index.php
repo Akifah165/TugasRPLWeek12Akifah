@@ -1,2 +1,1 @@
-<!-- <?php echo "Hello from CI!"; ?> -->
- <?php echo "Hello from CI & GitHub Actions!"; ?>
+<?php echo "Welcome to Our Simple CI Project"; ?>
